@@ -9,3 +9,10 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+.clover/
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/replstate.xml
+.idea/workspace.xml
