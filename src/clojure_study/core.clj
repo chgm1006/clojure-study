@@ -3,4 +3,8 @@
 (defn foo [x]
   (println x "Hello, World!"))
 
-(foo ["x"])
+
+(foo ["Forrest"])
+
+(+ 1 2)
+
